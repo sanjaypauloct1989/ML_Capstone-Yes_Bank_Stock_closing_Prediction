@@ -17,9 +17,9 @@ High- price of stock is maximum during the given time.
 Low- price of stock is minimum during the given time.
 In Addition to the regular EDA process we have added ML Programming to train the data. The models used are: -
 
-Linear Regression
-Ridge Regression
-Lasso Regression
+Linear Regression,
+Ridge Regression,
+Lasso Regression,
 ElasticNet Regression
 
 Throughout the project we learn many things such as problem statement, technical side of the ML model. We deal with open, close, high, low price as Yes bank dataset and learn how we predict the value of stocks by analysis of their previous performance.
